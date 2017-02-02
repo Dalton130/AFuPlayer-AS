@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res"/><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\build\generated\res\rs\debug"/><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res"><file name="ahuor" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\ahuor.png" qualifiers="" type="drawable"/><file name="bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bg.png" qualifiers="" type="drawable"/><file name="bg_help_box" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bg_help_box.png" qualifiers="" type="drawable"/><file name="bg_top" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bg_top.png" qualifiers="" type="drawable"/><file name="bigbutton" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bigbutton.xml" qualifiers="" type="drawable"/><file name="big_star" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\big_star.png" qualifiers="" type="drawable"/><file name="bn_jt1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bn_jt1.png" qualifiers="" type="drawable"/><file name="bn_no_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bn_no_bg.png" qualifiers="" type="drawable"/><file name="bn_yes_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\bn_yes_bg.png" qualifiers="" type="drawable"/><file name="button_bg1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\button_bg1.9.png" qualifiers="" type="drawable"/><file name="button_bg2" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\button_bg2.9.png" qualifiers="" type="drawable"/><file name="ic_media_stop" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\ic_media_stop.png" qualifiers="" type="drawable"/><file name="informationhelp" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\informationhelp.png" qualifiers="" type="drawable"/><file name="informationhelp2" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\informationhelp2.png" qualifiers="" type="drawable"/><file name="language_box_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\language_box_bg.png" qualifiers="" type="drawable"/><file name="left_arrow_black" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\left_arrow_black.png" qualifiers="" type="drawable"/><file name="left_arrow_white" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\left_arrow_white.png" qualifiers="" type="drawable"/><file name="logo" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\logo.png" qualifiers="" type="drawable"/><file name="logo_mainview" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\logo_mainview.png" qualifiers="" type="drawable"/><file name="main_menu" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\main_menu.png" qualifiers="" type="drawable"/><file name="options_box_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\options_box_bg.png" qualifiers="" type="drawable"/><file name="options_line" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\options_line.png" qualifiers="" type="drawable"/><file name="pase_view_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\pase_view_bg.png" qualifiers="" type="drawable"/><file name="right_arrow_black" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\right_arrow_black.png" qualifiers="" type="drawable"/><file name="right_arrow_white" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\right_arrow_white.png" qualifiers="" type="drawable"/><file name="score_line1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\score_line1.png" qualifiers="" type="drawable"/><file name="score_line2" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\score_line2.png" qualifiers="" type="drawable"/><file name="small_button" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_button.xml" qualifiers="" type="drawable"/><file name="small_button_bg1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_button_bg1.png" qualifiers="" type="drawable"/><file name="small_button_bg2" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_button_bg2.png" qualifiers="" type="drawable"/><file name="small_pic_button" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_pic_button.xml" qualifiers="" type="drawable"/><file name="small_star1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_star1.png" qualifiers="" type="drawable"/><file name="small_star2" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\small_star2.png" qualifiers="" type="drawable"/><file name="software_icons" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\software_icons.png" qualifiers="" type="drawable"/><file name="sound_line" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\sound_line.bmp" qualifiers="" type="drawable"/><file name="sound_line1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\sound_line1.bmp" qualifiers="" type="drawable"/><file name="splash" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\splash.png" qualifiers="" type="drawable"/><file name="star_bigger" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\star_bigger.png" qualifiers="" type="drawable"/><file name="test_main" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\test_main.jpg" qualifiers="" type="drawable"/><file name="toggle_button" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\toggle_button.xml" qualifiers="" type="drawable"/><file name="window_bg" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\window_bg.png" qualifiers="" type="drawable"/><file name="w_bg1" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\drawable\w_bg1.png" qualifiers="" type="drawable"/><file name="author_activity" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\author_activity.xml" qualifiers="" type="layout"/><file name="controler_view" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\controler_view.xml" qualifiers="" type="layout"/><file name="error_video_dialog" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\error_video_dialog.xml" qualifiers="" type="layout"/><file name="exit_dialog" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\exit_dialog.xml" qualifiers="" type="layout"/><file name="help_activity" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\help_activity.xml" qualifiers="" type="layout"/><file name="is_sdcard_dialog" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\is_sdcard_dialog.xml" qualifiers="" type="layout"/><file name="is_sdcard_playlist_dialog" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\is_sdcard_playlist_dialog.xml" qualifiers="" type="layout"/><file name="list_block" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\list_block.xml" qualifiers="" type="layout"/><file name="login_activity" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\login_activity.xml" qualifiers="" type="layout"/><file name="main_menu" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\main_menu.xml" qualifiers="" type="layout"/><file name="play_lists_text" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\play_lists_text.xml" qualifiers="" type="layout"/><file name="play_list_activity" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\play_list_activity.xml" qualifiers="" type="layout"/><file name="rename_alert_dialog" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\rename_alert_dialog.xml" qualifiers="" type="layout"/><file name="seekbar_style" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\seekbar_style.xml" qualifiers="" type="layout"/><file name="send_email_advice" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\send_email_advice.xml" qualifiers="" type="layout"/><file name="send_email_author" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\send_email_author.xml" qualifiers="" type="layout"/><file name="send_email_friend" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\send_email_friend.xml" qualifiers="" type="layout"/><file name="setup_activiy" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\setup_activiy.xml" qualifiers="" type="layout"/><file name="thumb" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\thumb.xml" qualifiers="" type="layout"/><file name="version_infomation_activity" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\version_infomation_activity.xml" qualifiers="" type="layout"/><file name="video_view" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\layout\video_view.xml" qualifiers="" type="layout"/><file name="button" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\raw\button.wav" qualifiers="" type="raw"/><file name="myhome" path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\raw\myhome.mp3" qualifiers="" type="raw"/><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="com.admob.android.ads.AdView">
+                 <attr format="boolean" name="testing"/>
+                 <attr format="color" name="backgroundColor"/>
+                 <attr format="color" name="textColor"/>
+                 <attr format="string" name="keywords"/>
+                 <attr format="integer" name="refreshInterval"/>
+                 <attr format="boolean" name="isGoneWithoutAd"/>
+         </declare-styleable></file><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values\color.xml" qualifiers=""><drawable name="magenta">#ff6699ff</drawable><drawable name="cyan">#66ffffff</drawable><drawable name="red">#ff00ff</drawable><color name="background">#FF000000</color><drawable name="yellow">#ffFF33ff</drawable><drawable name="darkgray">#404040ff</drawable><drawable name="gray">#808080ff</drawable><drawable name="lightgray">#c0c0c0ff</drawable><drawable name="black">#000000</drawable><color name="dialog_back">#330000FF</color><drawable name="green">#0ff0ff</drawable><color name="control_back">#AA00003D</color><drawable name="blue">#00ffff</drawable><drawable name="white">#FFFFFF</drawable></file><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values\strings.xml" qualifiers=""><string name="sd_shared">Please exit the USB mode, then run the application</string><string name="options_sure_english">sure</string><string name="mainmenu_scores">Help</string><string name="last_video_msg">Has a video of the last </string><string name="options_sure">sure</string><array name="items_for_allVideo">
+		<item>Play</item>
+		<item>Rename</item>
+		<item>Delete</item>
+	</array><string name="options_on">On       </string><string name="advice_email_Subject">Email subject is empty</string><string name="fail_renametoolong">The file name is too long, rename fail!</string><string name="help_information">
+		      
+		【AFu Player】Android mobile operating system is a super gorgeous screen,
+		Smart convenience, organization and coordination, design humane, responsive, multi-media player.
+		Google released the same day on the market in more than one million downloads in the times.
+		【AFu player】 supports local video, local music, online video, online music smooth playback.
+		Allows you to swim in the multimedia world, so you forget.
+		The software consists of Yang Guangfu (self: Fu) the use of spare time, free for everyone to use,
+		Please enjoy the 【AFu Player】 smooth playback experience brought it!
+																	\n\n\n
+		
+		
+		      【Support system version】\n\n
+		1、Perfect support android1.6, android2.0, android2.01, android2.1 platform \n
+		2、The perfect support for 320 × 480,480 × 800,480 × 854 and other resolutions (Automatic Identification screen resolution);\n
+		3、Support for online audio and video playback, support calls from the browser【AFu Player】 play online audio and video;\n
+		4 、Automatically converted to horizontal screen play, to provide users a better viewing experience;\n
+		5、Beautify the video playlist and operating instructions interface.\n\n\n
+	
+		      【Help】\n\n
+		1、Login: screen click on the shield icon in the player, will enter the main interface; six buttons on the main interface,
+			An icon button in the upper left corner there is a version information.\n
+		2、The main interface: six buttons, respectively [playlist], [player interface], [Settings], [Help], [see Kazakhstan Author], [out].\n
+		3、 【Play list】: click to enter the play list interface, which in the playlist can choose your favorite video files, you can return to the main interface.\n
+		4、【Player interface】：Click to enter the player interface, this interface can return to the main interface which, previous, play,
+			Next, there are tuning (press to mute, in the press and vice versa), exit, and the list (you can enter the play list) and other button.\n
+		5、【Set】:Click to enter setup interface, you can set the button to turn audio, set the language and so on.\n
+		6、【Help】：Click to enter for use interface, to look you can see most of the information using the software operation.\n
+		7、【Look of Author】：Click to get to the view of Kazakhstan, you can see the true face of this software, you can make friends, and of cooperation and investment.\n
+		8、【Exit】：Click to exit the software, please next time use.\n\n\n
+		
+		      【Play interface operation】\n\n
+		Note: If you use video online play, you will find some features not working,
+			  This is not a software problem, but I designed that way. Online Play button is valid when: tuning out the two buttons; but Chang shielding events or normal.\n
+		1、Full screen switch：\t Double-click the screen, double-click again in exchange for the original\n
+		2、Play/Pause: \t Press the screen/and then a long press or press the play/pause.\n
+		3、Tune/mute: \t Press the button to mute the mixer, on the contrary the opposite.\n
+		4、Play list: \t click the list button, put your phone \t\t all the videos listed for your selection, click Select select the file, will be played.\n
+		5、Previous videos: \t click on a button, will play on a video file.\n
+		6、Next Video: \t click the next button to play the next video file.\n\
+		7、Home: \t click the Home button, then return home.\n
+		8、Exit: \t click the Exit button, the dialog box will pop up, asking whether the exit, follow the prompts whether to exit.\n\n\n
+		
+		      【Internet Introduction】\n\n
+		1、AFu Player - Baidu Encyclopedia:\thttp://baike.baidu.com/view/4229955.html\n
+		2、AFu Technology blog:\thttp://yangguangfu.iteye.com\n\n\n
+		3、Download:\thttp://www.eoemarket.com/apps/9348\n\n\n
+		      【Statement】\n\n
+		
+		Disclaimer: The software interface material used material from the network and friends are the changes, if violation of your legal rights
+        If you find your work and have identical or copy please contact me. Please contact me, I will promptly replaced.
+		\n\nThank you for your use!\n\n      
+		【Welcome to e-mail contact】\n\n
+		Mail a：email:\t\t\t545609168@qq.com\n
+		
+		1、If you are a national political figures, to e-mail when the do not say, I was afraid this man officer.\n
+		2、If you are the boss, hehe, I like it, you want me to do? Let us talk about.\n
+		3、If you want to exchange technology, hee hee, mutual progress has been my pursuit.\n
+		4、If you are right I made the design and function for up to 200 words of the suggestions or comments,
+		   Have the opportunity to get my first version of the source code, I will send to your mailbox.\n
+		5、If you recommend one of your friends, thanks for your support.
+		   This year you make a fortune; 10 if you recommend to your friends, this life you make a fortune (in fact, thank you for your support and make a fortune or by the efforts.)
+
+		\n\n
+		</string><string name="error_video_msg">You play the video format is not correct, or the network environment is not good! </string><string name="sendathor_email_comment">You did not say what the purpose of</string><string name="advice_email_addr">Email address can t for empty</string><string name="options_off_english">        Off</string><string name="advice_return_button">Back</string><string name="app_isExit_msg">Do you want to exit the AFu Playe? </string><string name="rename_dialog">Rename</string><string name="author_informationHead">Author introduction</string><string name="sendfriend_email_content_title">Message content</string><string name="app_isSdcard_playList_msg">Your mobile phone memory card is not installed, the card can not read the paper!</string><string name="confirm_addvideo">Confirm to add this video?</string><string name="app_isExit_no">Cancel</string><string name="help_back">Back</string><string name="fail_deletefile">Delete file fail</string><string name="mainmenu_facebook_fan_us">See Author</string><string name="friend_addr">Enter friend email address</string><string name="control_next">Next</string><string name="app_isSdcard_no">Continue to enter</string><string name="app_isSdcard_no_msg">Your mobile phone memory card is not installed, continue?</string><string name="mainmenu_exit">Exit</string><string name="options_hint_msg">Oh sure set to take effect by </string><string name="help_suggest">Feedback</string><string name="author_body">
+		\n
+		      
+		First thanks you to arrive at this contact surface, this explained that you want to look at me .
+		For does not let you be disappointed, I can not but write humorously both me and have the content .	But is really difficult to gather the numerous mouths 
+		Therefore I took office the temper to come, did not mind .\n\n      
+		【I and my hometown】\n\n
+		I from some place, here have Shan Youshui, the air am neat, is a natural oxygen; The famous name wine are not many, but has Maotai;
+		Revolutionary transition, Zunyi Conference; First under heaven waterfall, Huangguoshu waterfall. The world first natural stone arch bridges, Liping natural bridge and so on. 
+		What is that some he called? - - - - Guizhou. (if you guess and me are the same, proved that your geography accomplishment is also good; 
+		uesses not rightly, also does not have the relations, multi-understandings good. ) My hometown calls Liping. If wish understanding Dong minority culture, Must go one of places is known as the first under heaven Dong township - - Liping Dong township.
+		
+		
+		
+		\n\n      
+		【I and my endeavor】\n\n
+		1st,  thought personally, the life life and death nature, the life is short, each people were finished, but was finished whether some people to remember itself. 
+		After order to die leaves a good name, we flow the nosebleed to diligently, this is the first reason diligently .\n
+		2nd, the first reason is insufficient to constitute the reason diligently, the reason that actually, we diligently, Is actually wants to live oneself has the dignity.
+	    A while ago heated always in accepts "Time Weekly" Interview time said: “we (refer to government) to make best effort to let all Chinese live have the dignity”. \n
+		3rd, the second reason diligently is not direct, actually we are to live have the face, does not bear to the parents, Has the face in front of the relatives and friends. 
+		The above three reasons, are the fountainheads which our humanity struggles, Has the different view to be possible to send the mail (under to have to send mail function) to exchange, also lets me study study.\n\n      
+		【I and my ideal】\n\n
+		1st, I most want to realize my life value - - not to want to idly spend this to live. Most wants to realize the dream has own company (and friend opens that also to calculate).
+	    2nd, I most want to be engaged in the occupation is: IT management, or company Gao Guan.
+	    3rd, if has with my similar dream friend, may consider, we start an undertaking together, the premise will be you disburses money (certainly I to press my family belongings), I will strive.\n\n      
+		
+		【I and my special skill】\n\n
+		1、Super fast learning speed (in assuring morpheus fully). \n
+		2、I would brag, can and different age people chat, communication effect is better than negotiators; \n
+		3、The an ever channel countless young "like" into "impulse", how many achievements charming story. \n
+		4、The an university did as a salesman, promote sales. His rent bicycle, from 6 to 30 cars, car development also calculate when a boss anyway.\n
+		 But because hanged division was forced to sale at an end, and this serves to illustrate that I always work with one heart and one mind do a thing to it. 
+			
+			
+		
+		
+		\n\n      
+		
+		【If you are some boss】\n\n
+		1st, if you want the android technical support, contacts with me. \n
+		2nd, if you want the IT administrative personnels, is called me, although is not very familiar, but the road is not far; 
+		But also has at least has instructed the personnel who two have not contacted the development (java zero foundation) in 5 month internal energy Does not hand over any expense to be able to realize the employment, and could find 5K the work, how fast study ability did I mainly train them am. \n
+		\n\n      
+		
+		
+		【If you are and I with the dream friend】\n\n
+		1st, multi-exchanges, sometimes in exchange impulsion middle school to many things. \n
+		2nd, we, win over the cutting edge who diligently makes the time. \n
+		3rd, the suggestion do not be too tired, the body is important, I knew that you are very tired, because I also rush for the dream involve, but is happy. 
+		\n\n      
+		
+		【If you are my schoolmate】\n\n
+		1st, saw after my software, telephones to me, I think you very much actually, is only too busy, after or trades the number, your name list vanished. \n
+		2nd, actually I daily online, but the stealth, is engaged in “the underground work”. \n
+		3rd, if you have married, remembered that tells me one, even if I could not come, but the gift was certain. \n
+		\n\n      
+		
+		【If you are my family member】\n\n
+		1st, daddy, mother you were laborious. \n
+		2nd, elder brother elder sister well you[guizudao mattress ]http://www.guizudao.com/推向全国。\n
+		3rd, if you are my nephew niece niece, grows in a big hurry, the uncle, uncle leads you to look at Tiananmen. \n
+		\n\n      
+		
+		【Welcome you to come the mail】\n\n
+		1st, if you are the national main points of administration, comes the mail time let alone, my this person fears the official very much surely. \n
+		2nd, if you are boss, hee hee, I do like, what wanting me to help you to make? Said first. \n
+		3rd, if you are must exchange the technology, hee hee, progresses has been my pursue mutually. \n
+		4th, if you have published to my design and the function are 200 characters the suggestions or the commentary, Has the opportunity to obtain the my first edition the source code, I will send to your mailbox. \n
+		5th, if you recommend to yours 1 friend, thanks your support. This year you get rich; If you recommend to yours 10 friends, this for a lifetime you get rich (actually thank your support, gets rich or depends diligently). 
+		\n\n      
+		
+		</string><string name="sendfriend_email_ok">Awesome</string><string name="infomation_send_friend">Classic software</string><string name="advice_appraise">comment:</string><string name="options_sound">Button sound</string><string name="sendathor_mark_friend_rad">Friends</string><string name="sendathor_receiver">E-mail</string><string name="options_language_trandition_chinese">繁體</string><string name="control_soundControl">Tuning</string><string name="mainmenu_play">Play Lists</string><string name="controler_exit">Exit</string><string name="emailcontent">Thank you for your support</string><string name="advice_str_message">Thanks for your letter！</string><string name="sendfriend_email_content">\tRecommend a screen in stunning multimedia AFu Player  android mobile phone player to you, you see, go here to download:\thttp://www.eoemarket.com/apps/9348</string><string name="receiver">Receiver</string><string name="play_lists_back">Back</string><string name="app_isExit_title">Tips</string><string name="options_language">Language</string><string name="app_name">AFu Player</string><string name="advice_send_emailcontent">\tI really like this software, take your spare time for everyone to use, you hard。</string><string name="help_contact_info">Haha, read the description of the operation more convenient.</string><string name="options_music">Background Music</string><string name="version_information_head">
+		\n
+		Edition number ：\tv2.0\n
+		Version given name ：\t himself \n
+		Edition ：\tThe second edition \n
+		Author ：\tCalling self ：AFu(Guangfu Yang)\n
+		Special skill ：\tThe contact surface is gorgeous ，Responds agilely ...\n
+		QQ group：63932554
+		</string><string-array name="sendathor_timeoutSpinner">
+		<item>I am your users</item>
+		<item>I have to source</item>
+		<item>I am an investor</item>
+		<item>I am an investor I am your man</item>
+		<item>I am your classmate</item>
+		<item>I am your colleagues</item>
+		<item>I am your relatives</item>
+		<item>I am certain</item>
+		<item>I was passing</item>
+	</string-array><string name="button_ok">Yes</string><string name="sendfriend_email_top_title">Recommend to my friends</string><string name="options_on_english">On       </string><string name="control_play_state">Play</string><string name="control_pause_state">Pause</string><string name="button_cancel">No</string><string name="auhor_back">Back</string><string name="advice_user_content"> ；\n【content】： </string><string name="contact_info">I am from the beautiful Liping Guizhou \n
+		Dong Liping
+	</string><string name="sendfriendr_email_verry_ok">Really good</string><string name="fail_renameexist">This file already exists!</string><string name="advice_good">good</string><string name="author_head">
+		call:AFu\n
+	    name:Guangfu Yang \n
+		sex: man\n
+		come from:Guizhou LiPing\n
+		profession:Software Engineer \n
+		speciality:java、android...\n
+		hobby:money \n\</string><string name="sendfriend_email_theme">I am</string><string name="advice_email_comment">You have no comment</string><string name="sendathor_email_back">Back</string><string name="sendfriend_email_back">Back</string><string name="advice_general">general</string><string name="sendathor_email_Subject">Message subject can not be empty</string><string name="file_notexist">The file to do not exist already</string><string name="control_soundControl_mute">Mute</string><string name="auhor_suggest">My work</string><string name="sendathor_give_code">To Source</string><string name="options_off">        Off</string><string name="advice_email_content">Mail contents can t for empty</string><string name="sendfriend_email_summary">Overall</string><string name="mainmenu_multiplay">About software</string><string name="advice_verygood">Very good</string><string name="sendathor_email_title">Make friends with the author</string><string name="app_hint_msg">Please press the button on the screen!</string><string name="sendathor_see_you">Cooperation</string><string name="advice_user_comment">【User comment】：</string><string name="sendathor_email_button">Send e-mail</string><string name="no_vide_file">No video files</string><string name="control_previous">Previous</string><string name="options_language_english">English</string><string name="sendatho_email_theme">I am</string><string name="play_lists">PlayLists</string><string name="information_copyright">©2011 Guangfu.</string><string name="sendathor_email_addr">E-mail address can not be empty</string><string name="sendathor_emailcontent">Then give him to say something</string><string name="error_video_msg_title">Sorry </string><string-array name="advice_timeout_labels">
+		<item>【AFuPlayer】：Excellent performance</item>
+		<item>【AFuPlayer】：Interface luxuriant</item>
+		<item>【AFuPlayer】：powerful</item>
+		<item>【AFuPlayer】：Interface general</item>
+		<item>【AFuPlayer】：usually</item>
+	</string-array><string name="sendfriend_receiver_friend">E-mail</string><string name="control_play_lists">PlayLists</string><string name="author_contact_info">My home is Liping Guizhou \n
+		Dong Liping
+	</string><string name="sendathor_advice_appraise">Looking for:</string><string name="sendfriend_email_button">Send e-mail</string><string name="options_language_chinese">中文</string><string name="app_isExit_yes">Sure</string><string name="control_menu">Menu</string><string name="send_email_author">Welcome to the suggestion</string><string name="play_lists_see">play lists</string><string name="sendathor_email_content">Message content can not be empty</string><string name="advice_send_button">Send e-mail</string><string name="version_info_bottom">version：v2.0  \n
+		Version name：himself
+	</string><string-array name="sendfriend_email_subject">
+		<item>I am your man</item>
+		<item>I am your friend</item>
+		<item>I am your classmate</item>
+		<item>I am your colleagues</item>
+		<item>I am the author of this software</item>
+		<item>I am your relatives</item>
+		<item>I am certain</item>
+		<item>I was passing</item>
+	</string-array><string name="send_email_theme">Theme</string><string name="app_isSdcard_yes">Exit</string><string name="send_email_content">Message</string><string name="error_video_learn">To understand </string><string name="informationHead">                            AFu Player
+		  v2.0 
+</string><string name="author_music_play">play</string><string name="confirm_deletefile">Want to delete the file confirm? </string><string name="help_titl">Help</string><string name="options_title">Options</string><string name="mainmenu_options">Set</string><string name="author_music_pause">pause</string><string name="sendfriend_email_generally">General</string><string name="error_video_sure">Know </string><string name="duration_tag">Movie time :</string><string name="fail_renameempty">File called empty, renaming fail!</string><string name="front_video_msg">The first video is already a </string></file><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values\styles.xml" qualifiers=""><style name="play_controler">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/small_button</item>
+		
+		<item name="android:layout_marginTop">1dip</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:gravity">center</item>
+	</style><style name="mainmenu_button">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/bigbutton</item>
+		<item name="android:layout_marginLeft">70dip</item>
+		<item name="android:layout_marginTop">10dip</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:gravity">center</item>
+	</style><style name="transActivity" parent="android:Theme.Translucent.NoTitleBar">
+		<item name="android:windowBackground">
+			@color/dialog_back 
+		</item>
+	</style><style name="options_button">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/bigbutton</item>
+		<item name="android:layout_marginLeft">220dip</item>
+		<item name="android:layout_marginTop">10dip</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:gravity">center</item>
+	</style><style name="play_lists_back">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/bigbutton</item>
+		<item name="android:layout_marginLeft">320dip</item>
+		<item name="android:layout_marginTop">10dip</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:gravity">center</item>
+	</style><style name="transDialog" parent="android:Theme.Dialog">
+		<item name="android:windowBackground">
+			@color/dialog_back 
+		</item>
+	</style></file><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values-zh\strings.xml" qualifiers="zh"><string name="control_soundControl">调音</string><string name="sendathor_emailcontent">要给他说点什么呢</string><string name="list_refresh">视频列表已刷新！</string><string name="sendfriend_receiver_friend">E-mail</string><string name="options_music_chinese">背景音乐</string><string name="send_email_author">欢迎您给作者建议</string><array name="items_for_allVideo">
+		<item>播放</item>
+		<item>重命名</item>
+		<item>删除</item>
+	</array><string name="sendathor_user_comment">【联系目前】：</string><string name="control_previous">上一个</string><string name="control_play_state">播放</string><string name="mainmenu_options">设置</string><string name="author_music_pause">暂停</string><string name="error_video_learn">去了解 </string><string name="options_off">        关</string><string name="error_video_msg">您播放的视频格式不正确，或者网络环境不好！ </string><string name="advice_user_content"> ；\n【内容】： </string><string name="receiver">收件人</string><string name="fail_renameexist">该文件已存在！</string><string name="sendathor_user_content"> ；\n【内容】： </string><string name="advice_general">一般</string><string name="sendfriend_email_generally">一般</string><string name="sendfriend_email_back">返回</string><string name="app_isSdcard_no_msg">您的手机存储卡没有安装好，是否继续？</string><string name="control_soundControl_mute">静音</string><string name="advice_send_button">发送邮件</string><string name="options_off_chinese">        关</string><string name="confirm_deletefile">确认要删除该文件吗？</string><string name="fail_renamefile">重命名文件失败</string><string name="app_isSdcard_playList_msg">您的手机存储卡没有安装好,读不了存储卡的文件。</string><string name="fail_renametoolong">文件名过长，重命名失败！</string><string name="sendfriend_sendEmial_button">发送邮件</string><string name="error_video_msg_title">对不起 </string><string name="file_notexist">这个文件已经不存在</string><string name="advice_email_addr">邮件地址不能为空</string><string name="sendathor_give_code">要源码</string><string name="play_lists_back">返回</string><string name="app_name">阿福播放器</string><string name="author_informationHead">作者简介</string><string name="infomation_str_message">您成功发送给好友！</string><string name="advice_email_comment">您还没有评论呢</string><string name="sd_removed">此应用需要SD卡才能使用</string><string name="sendathor_email_back">返回</string><string name="sendathor_email_comment">您还没有说目的呢</string><string-array name="sendfriend_email_subject">
+		<item>我是你的那位</item>
+		<item>我是你的朋友</item>
+		<item>我是你的同学</item>
+		<item>我是你的同事</item>
+		<item>我是本软件作者</item>
+		<item>我是你的亲戚</item>
+		<item>我是某某</item>
+		<item>我是过客</item>
+	</string-array><string name="app_isExit_title">提示</string><string name="app_isExit_no">取消</string><string name="sd_shared">请您先退出USB模式,再运行该应用</string><string name="button_cancel">取消</string><string name="advice_email_Subject">邮件主题为空</string><array name="items_for_externalCaller">
+		<item>播放</item>
+		<item>添加此视频</item>
+	</array><string name="sendathor_see_you">合作</string><string name="help_contact_info">哈哈，看了说明，操作更加便捷。</string><string name="play_lists_see">常看视频</string><string name="sendfriend_email_ok">真棒</string><string name="mainmenu_play">播放列表</string><string name="app_hint_msg">请你按屏幕上的按钮！</string><string name="app_isExit_yes">确定</string><string name="fail_deletefile">删除文件失败</string><string name="advice_user_comment">【用户评价】：</string><string name="mainmenu_exit">退出</string><string name="sendathor_email_addr">邮件地址不能为空</string><string name="sendfriend_email_content_title">内容</string><string name="sendathor_email_content">邮件内容不能为空</string><string name="control_menu">主页</string><string name="sendatho_email_theme">我是</string><string name="help_suggest">意见反馈</string><string name="control_play_lists">列表</string><string name="rename_dialog">重命名</string><string name="advice_str_message">谢谢您的回信！</string><string name="send_email_theme">主题</string><string name="app_isSdcard_yes">退出</string><string name="help_titl">使用说明</string><string name="sendathor_mark_friend_rad">交友</string><string name="friend_addr">输入好友邮件地址</string><string name="help_information">
+		      【阿福播放器】是android操作系统手机上一款界面超级绚丽，
+		灵巧便捷、组织协调、设计人性化、响应敏捷的多媒体播放器。
+		发布当天就在google市场上下载百万余于次。
+		【阿福播放器】支持本地视频、本地音乐、网络视频、网络音乐的流畅播放。
+		让你畅游在多媒体的世界里，让你流连忘返。
+		本软件由杨光福（自称：阿福）利用业余时间开发，免费提供给大家使用，
+		请大家尽情享受【阿福播放器】所带来的流畅播放体验吧！\n\n\n
+		
+		
+		      【支持系版本】\n\n
+		1、完美支持android1.6、android2.0、android2.01、 android2.1、android2.2、android2.3平台\n
+		2、完美支持320×480、480×800、480×854等各种分辨率（自动识别屏幕分辨率）;\n
+		3、支持在线音频、视频播放，支持从浏览器调用【阿福播放器】播放在线音频、视频；\n
+		4、自动转为横屏播放，为用户提供更好的观看体验；\n
+		5、美化了视频播放列表和操作说明的界面。\n\n\n
+	
+		      【使用说明】\n\n
+		1、登陆：在屏蔽幕点击本播放器图标，将进入主界面；主界面上有六个按钮，
+		一个图标，左上角还有个版本信息按钮。\n
+		2、主界面：六个按钮分别为[播放列表]、[播放界面]、[设置]、[使用说明]、[看哈作者]、[退出]。\n
+		3、【播放列表】：单击将进入播放列表界面，在播放列表里面可以选择你喜欢的视频文件，也可以返回主界面。\n
+		4、【播放界面】：单击将进入播放界面，这界面里面可以返回主界面，上一个，播放，
+			下一个，还有调音（长按为静音，在长按反之），退出，列表(可以进入播放列表)等按钮。\n
+		5、【设置】:单击进入设置界面，可以设置按钮是否开启声音，设置语言等等。\n
+		6、【使用说明】：单击将进入使用说明界面，就看可以看到使用软件操作的大部分信息。\n
+		7、【看哈作者】：单击将进入使用看哈作者，就可以看到本软件作者的真面，还可以和作者交朋友、合作、投资等。\n
+		8、【退出】：单击将退出软件，欢迎下次使用。\n\n\n
+		
+		      【播放界面操作】\n\n
+		 说明：如果你用视频在线播放，你会发现有些功能用不了了，
+		 这不是软件的问题，而是我设计这样的。在线播放的时候有效的按钮是：调音、退出这两按钮；但长安屏蔽事件还是正常。\n
+		1、全屏切换：\t双击屏幕，再次双击换回原来。\n
+		2、播放/暂停：\t长按屏幕/再长按或按播放/暂停。\n
+		3、调音/静音：\t长按调音按钮为静音，反之相反。\n
+		4、播放列表：\t单击列表按钮，便把你手机的\t\t所有视频列出来，供你选择，点击选择选择文件，将进行播放。\n
+		5、上一视频：\t单击上一个按钮，将播放上一个视频文件。\n
+		6、下一视频：\t单击下一个按钮，将播放下一个视频文件。\n\
+		7、返回主页：\t单击主页按钮，便返回主页。\n
+		8、退出：\t单击退出按钮，将弹出对话框，询问是否退出，根据提示操作是否退出。\n\n\n
+		
+		      【网上介绍】\n\n
+		1、阿福播放器—百度百科：\thttp://baike.baidu.com/view/4229955.html\n
+		2、阿福技术博客：\thttp://yangguangfu.iteye.com\n\n\n
+		3、下载地址：\thttp://www.eoemarket.com/apps/9348\n\n\n
+		      【声明】\n\n
+		
+		声明：本软件所使用的界面材料素材均来自于网络和朋友的修改，如果侵犯了您的合法权益
+		，如果发现和你的作品有雷同或者抄袭请联系我。请联系我，我会及时更换。
+		\n\n感谢您的使用！\n\n      
+		【欢迎邮件联系】\n\n
+		邮件一：email:\t\t\t545609168@qq.com\n
+		
+		1、如果你是国家政要，来邮件的时候千万别说，我这人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜欢，要我帮你做什么呢？先说说。\n
+		3、如果你是要交流技术，嘻嘻，相互进步一直是我的追求。\n
+		4、如果你是对我的设计及功能发表了长达200字的建议或评论，
+		都有机会获得我第一版本的源代码，我会发到你的邮箱。\n
+		5、如果你推荐给1个你的朋友，谢谢你的支持。
+		今年你发财；如果你推荐给10个你的朋友，这一辈子你发财（其实是谢谢你的支持，发财还是靠努力的）。
+		\n\n
+		</string><string name="duration_tag">影片时长:</string><string name="last_video_msg">已经是最后一个视频了 </string><string name="app_isExit_msg">您确定要退出阿福播放器吗？</string><string name="options_sound_chinese">按钮声音</string><string name="front_video_msg">已经是第一个视频了 </string><string name="control_pause_state">暂停</string><string name="sd_noinsert">未找到SD卡</string><string name="sendfriend_email_summary">总之</string><string name="mainmenu_facebook_fan_us">关于作者</string><string name="sendathor_advice_appraise">交友目的:</string><string name="sendfriend_email_button">发送邮件</string><string name="advice_send_emailcontent">\t我非常喜欢这款软件，占用了你的业余时间开发给大家用，你辛苦了。</string><string name="infomation_send_friend">经典软件</string><string name="options_hint_msg">按确定设置才生效哦</string><string name="sendathor_email_Subject">邮件主题不能为空</string><string name="author_body">
+		\n
+		      
+		首先感谢你来到这个界面，这说明你还是想看哈我。
+		为了不让你失望，我不得不把我写得既幽默又有内容。
+		但实在是难合众口
+		于是乎我就任着性子来了，不介意吧(*^__^*) 。\n\n      
+		【我和我的家乡】\n\n
+		我来自某地，这里有山有水，空气清爽，是个天然氧吧；名酒不多，但有茅台；
+		革命转折，遵义会议；天下第一瀑布，黄果树瀑布。
+		世界第一天然石拱桥，黎平天生桥等等。
+		那某地他叫做什么呢？————贵州。（如果你猜的和我一样，证明你地理素养还不错；
+		猜不对，也没有关系啦，多了解哈就行了呗。）
+		我的家乡叫黎平。如果想要了解侗族文化的话，
+		必去的地方之一就是号称天下第一侗乡——黎平侗乡。
+		
+		
+		\n\n      
+		【我和我的努力】\n\n
+		1、个人觉得，人生生死自然，生命短暂，每个人都完蛋，但完蛋是否会有人记住自己。
+		为了死后留名，我们就算流着鼻血都要努力，这是努力的第一个理由。\n
+		2、第一个理由不足以构成去努力的理由，其实啊，我们之所以努力，
+		其实是想让自己活得有尊严。前段时间温总里接受《时代周刊》
+		采访的时候就说：“我们（指政府）尽最大努力让所有的中国人活得有尊严”。\n
+		3、第二个努力的理由不直接，其实我们是为了活得有面子，不给父母负担，
+		在亲朋好友面前有面子。以上三个理由，是我们人类奋斗的源泉，
+		有不同看法的可以发邮件（下面有个发邮件的功能）交流交流，也让俺学学。\n\n      
+		【我和我的理想】\n\n
+		1、我最想实现自己的人生价值——不想虚度此生。最想实现的梦想是有自己的公司（和朋友开那也算）。
+		2、我最想从事的职业就是：IT管理，或者公司高管。
+		3、如果有和我同样梦想的朋友，可以考虑哈，我们一起创业，前提是你出钱（当然我会压上我的家当），我出力。\n\n      
+		
+		【我和我的特长】\n\n
+		1、超快的学习速度（在保证睡眠充分的情况下）。\n
+		2、和朋友做事希望两个做得开心，不想斤斤计较，够意思呗。\n
+		3、俺会吹牛，能和不同年龄阶段的人聊天，沟通效果胜过谈判专家；
+		4、俺曾经开导过无数少年“暗恋”变为“冲动”，成就多少佳话。\n
+		5、俺大学期间做过业务员，当过推销。自己出租自行车，从6辆发展到30辆，也算当过老板的人吧。\n
+		 但因为挂科被迫甩卖告终，这足以说明我总是一心一意做一件事吧。\n\n      
+		
+		【如果你是某老板】\n\n
+		1、如果你要android技术支持，联系我吧。\n
+		2、如果你要IT管理人员，叫我吧，虽然不是很熟悉，但路不远了；但至少也有过指导过两个从来没有接触开发的人员（java零基础）在5个月内能
+		不交任何费用就能实现就业，并能找到5K的工作，我主要培养他们的是怎样快速学习的能力。\n
+		3、如果你需要人合作，开公司啊，我可以出力，但记得分我点股份，我会尽我最大力量帮助公司高速发展。
+		\n\n      
+		
+		
+		【如果你是和我同梦想的朋友】\n\n
+		1、多交流吧，有时候在交流的冲动中学到很多东西。\n
+		2、我们都努力吧，争取做时代的先锋。\n
+		3、建议不要太累，身体要紧，我知道你很累，因为我也为梦想奔波累啊，但幸福。
+		\n\n      
+		
+		【如果你是我的同学】\n\n
+		1、看到我的软件后给我打个电话吧，我其实很想你们，只是太忙，或者换号码后你的名单消失了。\n
+		2、其实我天天在线，但隐身，从事“地下工作”。\n
+		3、如果你们结婚了，记得告诉我一声，即使我来不了，但礼物一定到。\n
+		\n\n      
+		
+		【如果你是我的家人】\n\n
+		1、爸爸，妈妈您辛苦了。\n
+		2、哥哥姐姐好好把你们的【贵族岛床垫】http://www.guizudao.com/推向全国。\n
+		3、如果你是我的侄子侄女外甥女，快快成长，舅舅，叔叔带你们看天安门。\n
+		\n\n      
+		
+		【欢迎您来邮件】\n\n
+		1、如果你是国家政要，来邮件的时候千万别说，我这人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜欢，要我帮你做什么呢？先说说。\n
+		3、如果你是要交流技术，嘻嘻，相互进步一直是我的追求。\n
+		4、如果你对我的设计及功能发表了长达200字的建议或评论，
+		都有机会获得我第一版本的源代码，我会发到你的邮箱。\n
+		5、如果你推荐给你的1个朋友，谢谢你的支持。
+		今年你发财；如果你推荐给你的10个朋友，这一辈子你发财（其实是谢谢你的支持，发财还是靠努力的）。
+		\n\n      
+		
+		</string><string name="confirm_addvideo">确认要添加此视频吗？</string><string name="sendathor_email_title">与作者交朋友</string><string name="sendfriend_email_top_title">推荐给我的好友</string><string name="sendathor_receiver">E-mail</string><string-array name="advice_timeout_labels">
+		<item>【阿福播放器】：性能优异</item>
+		<item>【阿福播放器】：界面华丽</item>
+		<item>【阿福播放器】：功能强大</item>
+		<item>【阿福播放器】：界面一般</item>
+		<item>【阿福播放器】：功能一般</item>
+	</string-array><string name="version_info_bottom">版本号：v2.0  \n
+		版本名：自强
+	</string><string name="information_copyright">©2011 阿福.</string><string name="app_isSdcard_no">继续进入</string><string name="help_back">返回</string><string name="button_ok">确定</string><string name="language_chinese">语言</string><string name="sendathor_email_button">发送邮件</string><string name="advice_email_content">邮件内容不能为空</string><string name="options_title">设置</string><string name="advice_appraise">评价:</string><string name="options_on_chinese">开       </string><string name="version_information_head">
+		\n
+		版本号：\tv1.3\n
+		版本名：\t1.3\n
+		版次：\t4\n
+		作者：\t自称：阿福（杨光福）\n
+		特长：\t界面绚丽，响应敏捷...\n
+		QQ群：150864794
+		</string><string name="author_contact_info">我来自美丽的贵州黎平 \n
+		黎平侗乡
+	</string><string name="controler_exit">退出</string><string name="sendfriendr_email_verry_ok">真不错</string><string name="options_sure_chinese">确定</string><string name="author_music_play">播放</string><string-array name="sendathor_timeoutSpinner">
+		<item>我是你的用户</item>
+		<item>我是要源码的</item>
+		<item>我是某投资人</item>
+		<item>我是你的那位</item>
+		<item>我是你的同学</item>
+		<item>我是你的同事</item>
+		<item>我是你的亲戚</item>
+		<item>我是某某</item>
+		<item>我是过客</item>
+	</string-array><string name="control_next">下一个</string><string name="send_email_content">内容</string><string name="advice_return_button">返回按钮</string><string name="options_on">开       </string><string name="auhor_suggest">我的作品</string><string name="advice_good">好</string><string name="author_head">
+		自称：\t阿福\n
+		姓名：\t杨光福\n
+		性别：\t公的\n
+		哪的：\t贵州黎平\n
+		职业：\t软件工程师\n
+		特长：\tjava、android...\n
+		爱好：\t人民币\n\</string><string name="sd_unmounted">SD卡未加载到手机</string><string name="fail_deleterecent">删除列表失败</string><string name="fail_renameempty">文件名为空，重命名失败！</string><string name="error_video_sure">知道了 </string><string name="sendfriend_email_theme">我是</string><string name="mainmenu_scores">使用说明</string><string name="sendfriend_email_content">\t推荐一款界面超炫的android手机多媒体播放器【阿福播放器】给你,你看看,去这里下载:http://www.eoemarket.com/apps/9348</string><string name="no_vide_file">没有视频文件</string><string name="options_sure">确定</string><string name="advice_verygood">非常好</string><string name="mainmenu_multiplay">软件推荐</string></file><file path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\main\res\values-zh-rTW\strings.xml" qualifiers="zh-rTW"><string name="advice_verygood">非常好</string><string name="help_back">返回</string><string name="control_pause_state">暫停</string><string name="play_lists_back">返回</string><string name="control_next">下一個</string><string name="options_title_trandition_chinese">設置</string><string name="app_isExit_msg">您是否要退出阿福播放器？ </string><string name="author_music_play">播放</string><string name="error_video_msg">您播放的視頻格式不正確，或網絡環境不好！ </string><string name="app_isExit_no">取消</string><string name="author_contact_info">我來自美麗貴州黎平 \n
+		黎平侗鄉
+	</string><string name="control_soundControl_mute">靜音</string><string name="front_video_msg">已經是第一個視頻了 </string><string name="options_sure_trandition_chinese">確定</string><string name="advice_user_comment">【用戶評價】：</string><string name="mainmenu_scores">使用說明</string><string name="controler_exit">退出</string><string name="app_isExit_yes">確定</string><string name="send_email_author">歡迎您給作者建議</string><string name="options_on_trandition_chinese">開       
+	</string><string name="advice_general">一般</string><string name="send_email_content">內容</string><string name="control_menu">主頁</string><string name="options_sure">確定</string><string name="advice_appraise">評價:</string><string name="advice_email_comment">您還沒評論呢</string><string name="mainmenu_facebook_fan_us">看哈作者</string><string name="last_video_msg">已經是最後一個視頻了 </string><string name="advice_user_content"> ；\n【內容】： </string><string name="control_play_state">播放</string><string name="author_music_pause">暂停</string><string name="options_on">開       
+	</string><string name="options_hint_msg">按確定設置才生效哦 </string><string name="app_name">阿福播放器</string><string name="author_body">
+		\n
+		      
+		首先感謝你來到這個介面，這說明你還是想看哈我。
+		爲了不讓你失望，我不得不把自己寫的既幽默又有內容。
+		但實在是難合從口
+		於是乎我就任著性子來了，不介意吧(*^__^*) 。\n\n      
+		【我和我的家鄉】\n\n
+		我來自某地，那裡山美水美，人更美，空氣清新，是個天然氧吧；名酒不多，但有茅臺；
+		革命轉折，遵義會議；天下大瀑布，黃果樹不鋪。
+		世界第一天然石拱橋，麗萍天生橋。
+		這某地他叫什麽呢？————貴州。（如果你猜的和我一樣，證明你地理很有素養；
+		猜不對，也沒關係，下面我帶你去瞭解瞭解。）
+		我的家鄉叫黎平。如果想要瞭解侗鄉文化的話，
+		必去的地方之一就是號稱天下第一侗鄉——黎平侗鄉。
+
+
+		\n\n      
+		【我和我的努力】\n\n
+		1、個人覺得，人生生死自然，生命短暫，每個人都完蛋，但完蛋是否會有人記得住自己。
+		爲了死後留名，我們就算流著鼻血都要努力，這是奴隸的第一理由。\n
+		2、第一個理由不注意構成去努力的理由，其實啊，我們之所以努力，
+		其實是想讓自己活得有尊嚴。前段時間溫總理接受《時代週刊》
+		來訪的時候就說：“我們（指政府）徑最大努力讓所有的中國人活得有尊嚴”。\n
+		3、第二個理由不直接，其實我們是爲了獲得有面子，
+		在親朋好友面前有面子。以上三個理由，是我們人類奮鬥的源泉，
+		有不同看法的可以發郵件（下面有個發郵件）交流交流，也讓俺學學。\n\n      
+		【我和我的理想】\n\n
+		1、我最想實現自己人生呢個價值的是——不想虛度此生。最想實現夢想的是擁有自己的公司（和朋友開那也算）。
+		2、我最想從事的職業：IT管理，或者公司高管。
+		3、如果有和我同樣夢想的朋友，可以好綠哈，我們一起創業，前提是你出錢（當然我會呀上我的家當），我出力。\n\n      
+
+		【我和我的特長】\n\n
+		1、超快的學習書讀（在保證充分的水面的情況下）。\n
+		2、和朋友做是希望的是彼此都開心，不想斤斤計較，夠意思吧。\n
+		3、俺會吹牛，能和不同臨界段的人吹牛，溝通效果勝過不同專家；
+
+
+
+
+		4、俺曾經開到過無數的少年“暗戀”變為“衝動”，成就多少話家。\n
+		5、俺大學期間做過業務員，當過推銷。自己出出租自行車，從6量發展到30量，也算當過老闆的人吧。\n
+		但因為掛科被迫甩賣告終 ，這足以說明我總是一心一意做事吧。\n\n      
+
+		【如果你是某老板】\n\n
+		1、如果你要android技術支持，聯繫我吧。\n
+		2、如果你要IT管理人員，叫我吧，雖然不是很熟悉，單路不遠了；但至少也有過指導兩個從來沒有接觸開發人員（java零基础）在5個月內
+		不交任何費用就能實現就業，且能找到5K的工作，我主要培養他們的是怎樣快速學習的能力。\n
+		3、如果你學咬人合作，開個公司啊，我可以出力，單節得分我點股份，我會盡我最大力量幫助公司高速發展。
+		\n\n      
+
+
+		【如果你是和我同夢想的朋友】\n\n
+		1、多交流吧，有時候在交流的衝動中學到很多東西。\n
+		2、我們都努力吧，爭取做是大的先鋒。\n
+		3、建議不要太勞累，身體要緊，我知道你很累，因為我也為夢想奔波，也很勞累，但幸福。
+		\n\n      
+
+		【如果你是我的同學】\n\n
+		1、看到我的軟件后給我打個電話吧，我其實很想你們，只是太忙了，或者換號碼後沒有及時加上你們的號碼。\n
+		2、其實我天天在線，但隱身，從事“地下工作”。\n
+		3、如果你們結婚了，記得告訴我一聲，即使我來不了，但禮物一定到。\n
+		\n\n      
+
+		【如果你是我的家人】\n\n
+		1、爸爸，媽媽你們辛苦了。\n
+		2、哥哥姐姐好好把你們的【贵族岛床垫】http://www.guizudao.com/推向全國。\n
+		3、如果你是我的侄子侄女外甥女，那就快快成長，舅舅，叔叔帶你們看天安門。\n
+		\n\n      
+
+		【歡迎您來郵件】\n\n
+		1、如果你是国家政要，來郵件時候千萬別說，我這人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜歡，要我幫你什麽呢？先說說。\n
+		3、如果你是要交流技術，嘻嘻，相互進步一直是我的原則。\n
+		4、如果你对我的設計及功能發表長達200子的建議或評價，
+		都有機會獲得我的第一版本的源代碼，我會發到你的郵件。\n
+		5、如果你推薦给你的1个朋友，謝謝你的支持。
+		今年你發財；如果你推薦給10个朋友，這輩子你發財（其实是谢谢你的支持，发财还是靠努力的）。
+		\n\n       </string><string name="mainmenu_options">設置</string><string name="advice_str_message">感謝您的回信！</string><string name="language_trandition_chinese">語言</string><string name="app_hint_msg">請您按屏幕上的按鈕！</string><string name="control_play_lists">列表</string><string name="advice_email_Subject">郵件主題為空</string><string name="help_information">
+		      【阿福播放器】是android操作系統上一款潔面超級絢麗，
+		靈巧便捷、組織協調、設計人性化、響應敏捷的多媒體播放器。
+		發佈當天就在google市場啥關上下載百萬億次。
+		【阿福播放器】支持本地視頻、本地音樂、網絡視頻、網絡音樂的流暢播放。
+		讓你們暢遊在多媒體的世界里，讓你流連往返。
+		本軟件由杨光福（自称：阿福）利用業餘時間開發，免費給大家使用，
+		請大家盡情享受【阿福播放器】所帶來的暢流播放体验吧！\n\n\n
+
+
+		      【支持系版本】\n\n
+		1、完美支持android1.6、android2.0、android2.01、 android2.1、android2.2、android2.3平台\n
+		2、完美支持320×480、480×800、480×854等個分辨率（自動識別品目分辨率）;\n
+		3、支持在線音頻、視頻播放，支持從瀏覽器中播放【阿福播放器】播放在線音頻、視頻；\n
+		4、自動幻化為橫拼搏放，為用戶提供更好的觀看體驗；\n
+		5、美化了視頻播放列表和caozuoshuoming。\n\n\n
+
+		      【使用说明】\n\n
+		1、登陸：在屏幕点击本播放器图标，將進入主界面；主界面上有六个按钮，
+		一个图标，左上角還有一個信息按鈕。\n
+		2、主界面：六个按鈕分別爲[播放列表]、[播放界面]、[设置]、[使用說明]、[看哈作者]、[退出]。\n
+		3、【播放列表】：單擊將進入播放列表界面，在播放列表裏面可以選擇你喜歡的視頻文件，也可以返回主界面。\n
+		4、【播放界面】：單擊将进入播放界面，這界面里可以返回主界面，上一个，播放，
+		下一个，還有調音（長安為靜音，在長安反之），退出，列表(可以进入播放列表)等按鈕。\n
+		5、【设置】:單擊進入設置界面，可以設置按鈕是否開區聲音，語言設置等等。\n
+		6、【使用說明】：單擊將進入使用說明界面就可以看到實用軟件操作的大部份信息。\n
+		7、【看哈作者】：單擊将進入使用看哈作者，就可以看到本軟件作者的真面目，還可以和作者交朋友、合作、投資等。\n
+		8、【退出】：單擊將推出該軟件，歡迎下次使用。\n\n\n
+
+		      【播放界面操作】\n\n
+		說明：如果你用視頻在線播放，你會發現有些功能用不上了，
+		這不是軟件的問題，而是我設計這樣。在線播放的時候有效的按鈕時：調音、退出這兩個按鈕；按長按屏幕事件還是正常。\n
+		1、全屏切換：\t雙擊屏幕，再次雙擊換回原來。\n
+		2、播放/暫停：\t長按屏幕/再長按或按播放/暂停。\n
+		3、調音/靜音：\t長按靜音按鈕為靜音，反之為調音。\n
+		4、播放列表：\t單擊列表按鈕，便把你手機的\t\t所有視頻列出來，供你選擇，單擊選擇選擇文件，將進行播放。\n
+		5、上一視頻：\t單機上一個按鈕，將播放上一個視頻文件。\n
+		6、下一個視頻：\t單擊下一個按鈕，將播放下一個視頻文件。\n\
+		7、返回主頁：\t單擊主頁按鈕，便返回主頁按鈕。\n
+		8、退出：\t單擊退出按鈕，將彈出退出對話框，詢問是否退出，根據提示操作是否退出。\n\n\n
+
+		      【網上介紹】\n\n
+		1、阿福播放器—百度百科：\thttp://baike.baidu.com/view/4229955.html\n
+		2、阿福技術博客：\thttp://yangguangfu.iteye.com\n\n\n
+		3、下載地址：\thttp://www.eoemarket.com/apps/9348\n\n\n
+		      【聲明】\n\n
+
+		聲明：本軟件所使用的界面材料素材均來自于網絡和朋友的修改，如果侵犯了您的合法權利
+		，如果發現和您的作品有雷同或者抄襲請聯繫我。我會及時更換。
+		\n\n感謝您的使用！\n\n      
+		【歡迎郵件聯繫】\n\n
+		郵件一：email:\t\t\t545609168@qq.com\n
+
+		1、如果你是国家政要，來郵件時候千萬別說，我這人很怕官。\n
+		2、如果你是老板，嘻嘻，我喜歡，要我幫你什麽呢？先說說。\n
+		3、如果你是要交流技術，嘻嘻，相互進步一直是我的原則。\n
+		4、如果你对我的設計及功能發表長達200子的建議或評價，
+		都有機會獲得我的第一版本的源代碼，我會發到你的郵件。\n
+		5、如果你推薦给你的1个朋友，謝謝你的支持。
+		今年你發財；如果你推薦給10个朋友，這輩子你發財（其实是谢谢你的支持，发财还是靠努力的）。
+		\n\n
+		</string><string name="no_vide_file">沒有視頻文件</string><string name="advice_return_button">返回按鈕</string><string name="advice_email_addr">郵件地址不能為空</string><string name="options_off">        關
+	</string><string name="control_previous">上一個</string><string name="author_informationHead">作者簡介</string><string name="options_sound_trandition_chinese">按鈕聲音</string><string name="help_titl">使用說明</string><string name="auhor_back">返回</string><string name="advice_good">好</string><string name="options_off_trandition_chinese">        關
+	</string><string name="advice_email_content">郵件內容為空</string><string name="advice_send_button">發送郵件</string><string name="error_video_sure">知道了 </string><string name="mainmenu_multiplay">關于軟件</string><string name="help_suggest">意見反饋</string><string name="receiver">收件人</string><string-array name="advice_timeout_labels">
+		<item>【阿福播放器】：性能優異</item>
+		<item>【阿福播放器】：界面華麗</item>
+		<item>【阿福播放器】：功能強大</item>
+		<item>【阿福播放器】：界面一般</item>
+		<item>【阿福播放器】：功能一般</item>
+		<item>【阿福播放器】：不怎么样</item>
+	</string-array><string name="mainmenu_exit">退出</string><string name="send_email_theme">主題</string><string name="error_video_msg_title">對不起 </string><string name="help_contact_info">哈哈，看了說明，操作更簡單。</string><string name="app_isExit_title">提示</string><string name="error_video_learn">去了解 </string><string name="control_soundControl">調音</string><string name="mainmenu_play">播放列表</string><string name="options_music_trandition_chinese">背景音樂</string><string name="emailcontent">衷心的感謝您對我的支持</string><string name="auhor_suggest">我的作品</string><string name="author_head">
+		自稱：\t阿福\n
+		姓名：\t楊光福\n
+		性別：\t公的\n
+		哪的：\t貴州黎平\n
+		職業：\t軟件工程師\n
+		特長：\tjava、android...\n
+		愛好：\t人民幣\n\</string></file></source><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\build\generated\res\rs\debug"/><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\20170119\shift\esc\VisualOnA\Android\AFuPlayer-master\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="com.admob.android.ads.AdView"><attr format="boolean" name="testing"/><attr format="color" name="backgroundColor"/><attr format="color" name="textColor"/><attr format="string" name="keywords"/><attr format="integer" name="refreshInterval"/><attr format="boolean" name="isGoneWithoutAd"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rename_alert_dialog.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\rename_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_list_activity.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\play_list_activity.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\error_video_dialog.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\error_video_dialog.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\version_infomation_activity.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\version_infomation_activity.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumb.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\thumb.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\is_sdcard_playlist_dialog.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\is_sdcard_playlist_dialog.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\is_sdcard_dialog.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\is_sdcard_dialog.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_lists_text.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\play_lists_text.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\author_activity.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\author_activity.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_activity.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\help_activity.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controler_view.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\controler_view.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_email_friend.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\send_email_friend.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_block.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\list_block.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seekbar_style.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_view.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_activiy.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\setup_activiy.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_email_author.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\send_email_author.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_email_advice.xml",
+        "source": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\layout\\send_email_advice.xml"
+    }
+]

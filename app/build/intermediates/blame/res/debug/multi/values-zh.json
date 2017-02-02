@@ -1,0 +1,2538 @@
+[
+    {
+        "outputFile": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 16,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 1,
+                        "startOffset": 3945,
+                        "endLine": 133,
+                        "endColumn": 16,
+                        "endOffset": 4145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endLine": 13,
+                    "endColumn": 9,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1054,
+                        "endLine": 33,
+                        "endColumn": 9,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 510,
+                        "endLine": 19,
+                        "endColumn": 9,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endLine": 28,
+                    "endColumn": 16,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1371,
+                        "endLine": 52,
+                        "endColumn": 16,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endLine": 38,
+                    "endColumn": 16,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 2595,
+                        "endLine": 89,
+                        "endColumn": 16,
+                        "endOffset": 2831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 47,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 4204,
+                        "endColumn": 47,
+                        "endOffset": 4247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 55,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 1,
+                        "startOffset": 4438,
+                        "endColumn": 52,
+                        "endOffset": 4489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 54,
+                    "endOffset": 1113
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 1,
+                        "startOffset": 4386,
+                        "endColumn": 51,
+                        "endOffset": 4436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1118,
+                    "endColumn": 56,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 1,
+                        "startOffset": 4546,
+                        "endColumn": 53,
+                        "endOffset": 4598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 57,
+                    "endOffset": 1228
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 1,
+                        "startOffset": 4491,
+                        "endColumn": 54,
+                        "endOffset": 4544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endColumn": 45,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 1,
+                        "startOffset": 4340,
+                        "endColumn": 42,
+                        "endOffset": 4381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1279,
+                    "endColumn": 41,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 4300,
+                        "endColumn": 41,
+                        "endOffset": 4337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endColumn": 53,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 1,
+                        "startOffset": 3892,
+                        "endColumn": 50,
+                        "endOffset": 3941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 51,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 1,
+                        "startOffset": 3843,
+                        "endColumn": 48,
+                        "endOffset": 3890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 86,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 1,
+                        "startOffset": 3759,
+                        "endColumn": 83,
+                        "endOffset": 3841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 54,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 1,
+                        "startOffset": 4149,
+                        "endColumn": 51,
+                        "endOffset": 4199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 55,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 1,
+                        "startOffset": 4600,
+                        "endColumn": 52,
+                        "endOffset": 4651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endColumn": 58,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 1,
+                        "startOffset": 4653,
+                        "endColumn": 55,
+                        "endOffset": 4707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 47,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 4252,
+                        "endColumn": 47,
+                        "endOffset": 4295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1732,
+                    "endColumn": 51,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 1,
+                        "startOffset": 7063,
+                        "endColumn": 48,
+                        "endOffset": 7110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 56,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 1,
+                        "startOffset": 6450,
+                        "endColumn": 53,
+                        "endOffset": 6502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1841,
+                    "endColumn": 44,
+                    "endOffset": 1881
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 1,
+                        "startOffset": 6365,
+                        "endColumn": 41,
+                        "endOffset": 6405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1886,
+                    "endColumn": 47,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 1,
+                        "startOffset": 6320,
+                        "endColumn": 44,
+                        "endOffset": 6363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 45,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 1,
+                        "startOffset": 6407,
+                        "endColumn": 42,
+                        "endOffset": 6448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endColumn": 48,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 1,
+                        "startOffset": 6570,
+                        "endColumn": 45,
+                        "endOffset": 6614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 66,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 1,
+                        "startOffset": 6506,
+                        "endColumn": 63,
+                        "endOffset": 6568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 77,
+                    "endOffset": 2169
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 1,
+                        "startOffset": 6661,
+                        "endColumn": 74,
+                        "endOffset": 6734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2174,
+                    "endColumn": 47,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 1,
+                        "startOffset": 6616,
+                        "endColumn": 44,
+                        "endOffset": 6659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2222,
+                    "endColumn": 42,
+                    "endOffset": 2260
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2265,
+                    "endColumn": 46,
+                    "endOffset": 2307
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 1,
+                        "startOffset": 7118,
+                        "endColumn": 43,
+                        "endOffset": 7160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2312,
+                    "endLine": 140,
+                    "endColumn": 11,
+                    "endOffset": 4340
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 1,
+                        "startOffset": 9933,
+                        "endLine": 379,
+                        "endColumn": 11,
+                        "endOffset": 12291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4345,
+                    "endLine": 143,
+                    "endColumn": 10,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 1,
+                        "startOffset": 7215,
+                        "endLine": 217,
+                        "endColumn": 10,
+                        "endOffset": 7281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endLine": 151,
+                    "endColumn": 22,
+                    "endOffset": 4557
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 1,
+                        "startOffset": 9784,
+                        "endLine": 300,
+                        "endColumn": 22,
+                        "endOffset": 9925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 4562,
+                    "endColumn": 55,
+                    "endOffset": 4613
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 1,
+                        "startOffset": 7162,
+                        "endColumn": 52,
+                        "endOffset": 7213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 4618,
+                    "endColumn": 49,
+                    "endOffset": 4663
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 1,
+                        "startOffset": 7283,
+                        "endColumn": 46,
+                        "endOffset": 7328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 4668,
+                    "endColumn": 48,
+                    "endOffset": 4712
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 1,
+                        "startOffset": 7330,
+                        "endColumn": 45,
+                        "endOffset": 7374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 4717,
+                    "endColumn": 44,
+                    "endOffset": 4757
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 230,
+                        "endColumn": 41,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 4762,
+                    "endColumn": 40,
+                    "endOffset": 4798
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 192,
+                        "endColumn": 37,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 4803,
+                    "endColumn": 55,
+                    "endOffset": 4854
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 649,
+                        "endColumn": 52,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 4859,
+                    "endColumn": 57,
+                    "endOffset": 4912
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1154,
+                        "endColumn": 54,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 4917,
+                    "endColumn": 43,
+                    "endOffset": 4956
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 6114,
+                        "endColumn": 43,
+                        "endOffset": 6153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 4961,
+                    "endColumn": 44,
+                    "endOffset": 5001
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 5968,
+                        "endColumn": 44,
+                        "endOffset": 6008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5006,
+                    "endColumn": 50,
+                    "endOffset": 5052
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 6063,
+                        "endColumn": 50,
+                        "endOffset": 6109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5057,
+                    "endColumn": 49,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 5869,
+                        "endColumn": 49,
+                        "endOffset": 5914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5107,
+                    "endColumn": 49,
+                    "endOffset": 5152
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 6013,
+                        "endColumn": 49,
+                        "endOffset": 6058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5157,
+                    "endColumn": 48,
+                    "endOffset": 5201
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 5919,
+                        "endColumn": 48,
+                        "endOffset": 5963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 5206,
+                    "endColumn": 51,
+                    "endOffset": 5253
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 6158,
+                        "endColumn": 51,
+                        "endOffset": 6205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 5258,
+                    "endColumn": 56,
+                    "endOffset": 5310
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 6210,
+                        "endColumn": 56,
+                        "endOffset": 6262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 5315,
+                    "endColumn": 45,
+                    "endOffset": 5356
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 6267,
+                        "endColumn": 45,
+                        "endOffset": 6308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 5361,
+                    "endColumn": 46,
+                    "endOffset": 5403
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 466,
+                        "endColumn": 43,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5408,
+                    "endColumn": 50,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 1,
+                        "startOffset": 7011,
+                        "endColumn": 47,
+                        "endOffset": 7057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endColumn": 66,
+                    "endOffset": 5521
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 1,
+                        "startOffset": 6900,
+                        "endColumn": 63,
+                        "endOffset": 6962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5526,
+                    "endColumn": 54,
+                    "endOffset": 5576
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 1,
+                        "startOffset": 6848,
+                        "endColumn": 51,
+                        "endOffset": 6898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5581,
+                    "endColumn": 49,
+                    "endOffset": 5626
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 1,
+                        "startOffset": 6964,
+                        "endColumn": 46,
+                        "endOffset": 7009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 5631,
+                    "endColumn": 50,
+                    "endOffset": 5677
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 702,
+                        "endColumn": 47,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 5682,
+                    "endColumn": 52,
+                    "endOffset": 5730
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 750,
+                        "endColumn": 49,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 5735,
+                    "endColumn": 57,
+                    "endOffset": 5788
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 956,
+                        "endColumn": 54,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 5793,
+                    "endColumn": 52,
+                    "endOffset": 5841
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 849,
+                        "endColumn": 49,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 5846,
+                    "endColumn": 51,
+                    "endOffset": 5893
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 800,
+                        "endColumn": 48,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 5898,
+                    "endColumn": 59,
+                    "endOffset": 5953
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 899,
+                        "endColumn": 56,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 5958,
+                    "endColumn": 51,
+                    "endOffset": 6005
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 600,
+                        "endColumn": 48,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6010,
+                    "endColumn": 48,
+                    "endOffset": 6054
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 2496,
+                        "endColumn": 45,
+                        "endOffset": 2540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6059,
+                    "endColumn": 54,
+                    "endOffset": 6109
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 1,
+                        "startOffset": 6792,
+                        "endColumn": 51,
+                        "endOffset": 6842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6114,
+                    "endColumn": 40,
+                    "endOffset": 6150
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 1,
+                        "startOffset": 7463,
+                        "endColumn": 37,
+                        "endOffset": 7499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6155,
+                    "endColumn": 61,
+                    "endOffset": 6212
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 1,
+                        "startOffset": 7501,
+                        "endColumn": 58,
+                        "endOffset": 7558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6217,
+                    "endLine": 245,
+                    "endColumn": 11,
+                    "endOffset": 8217
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 2,
+                        "startOffset": 7566,
+                        "endLine": 290,
+                        "endColumn": 11,
+                        "endOffset": 9778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 8222,
+                    "endColumn": 45,
+                    "endOffset": 8263
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 1,
+                        "startOffset": 7420,
+                        "endColumn": 42,
+                        "endOffset": 7461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 8268,
+                    "endColumn": 42,
+                    "endOffset": 8306
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 1,
+                        "startOffset": 7380,
+                        "endColumn": 39,
+                        "endOffset": 7418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 8311,
+                    "endColumn": 55,
+                    "endOffset": 8362
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 1,
+                        "startOffset": 3478,
+                        "endColumn": 52,
+                        "endOffset": 3529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 8367,
+                    "endColumn": 60,
+                    "endOffset": 8423
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 1,
+                        "startOffset": 3420,
+                        "endColumn": 57,
+                        "endOffset": 3476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 8428,
+                    "endColumn": 59,
+                    "endOffset": 8483
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 1,
+                        "startOffset": 12541,
+                        "endLine": 401,
+                        "endColumn": 49,
+                        "endOffset": 12598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 8488,
+                    "endColumn": 47,
+                    "endOffset": 8531
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 5081,
+                        "endColumn": 47,
+                        "endOffset": 5124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 8536,
+                    "endColumn": 54,
+                    "endOffset": 8586
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 1,
+                        "startOffset": 6740,
+                        "endColumn": 51,
+                        "endOffset": 6790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 8591,
+                    "endColumn": 49,
+                    "endOffset": 8636
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 145,
+                        "endColumn": 46,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 8641,
+                    "endColumn": 44,
+                    "endOffset": 8681
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 4972,
+                        "endColumn": 44,
+                        "endOffset": 5012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 8686,
+                    "endColumn": 57,
+                    "endOffset": 8739
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 4914,
+                        "endColumn": 57,
+                        "endOffset": 4967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 8744,
+                    "endColumn": 51,
+                    "endOffset": 8791
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 4765,
+                        "endColumn": 51,
+                        "endOffset": 4812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 8796,
+                    "endColumn": 47,
+                    "endOffset": 8839
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 4817,
+                        "endColumn": 47,
+                        "endOffset": 4860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 8844,
+                    "endColumn": 46,
+                    "endOffset": 8886
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 4718,
+                        "endColumn": 46,
+                        "endOffset": 4760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 8891,
+                    "endColumn": 48,
+                    "endOffset": 8935
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 4865,
+                        "endColumn": 48,
+                        "endOffset": 4909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 8940,
+                    "endColumn": 47,
+                    "endOffset": 8983
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 92,
+                        "endColumn": 44,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 8988,
+                    "endColumn": 54,
+                    "endOffset": 9038
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 5697,
+                        "endColumn": 54,
+                        "endOffset": 5747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 9043,
+                    "endColumn": 54,
+                    "endOffset": 9093
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 5129,
+                        "endColumn": 54,
+                        "endOffset": 5179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 9098,
+                    "endColumn": 49,
+                    "endOffset": 9143
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 5413,
+                        "endColumn": 89,
+                        "endOffset": 5498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9148,
+                    "endColumn": 57,
+                    "endOffset": 9201
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 5503,
+                        "endColumn": 97,
+                        "endOffset": 5596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 9206,
+                    "endColumn": 47,
+                    "endOffset": 9249
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 5239,
+                        "endColumn": 82,
+                        "endOffset": 5317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 9254,
+                    "endColumn": 55,
+                    "endOffset": 9305
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 5322,
+                        "endColumn": 90,
+                        "endOffset": 5408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 9310,
+                    "endColumn": 54,
+                    "endOffset": 9360
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 5184,
+                        "endColumn": 54,
+                        "endOffset": 5234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9365,
+                    "endColumn": 43,
+                    "endOffset": 9404
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 5601,
+                        "endColumn": 43,
+                        "endOffset": 5640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9409,
+                    "endColumn": 51,
+                    "endOffset": 9456
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 5645,
+                        "endColumn": 51,
+                        "endOffset": 5692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9461,
+                    "endColumn": 44,
+                    "endOffset": 9501
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 5036,
+                        "endColumn": 44,
+                        "endOffset": 5076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9506,
+                    "endColumn": 46,
+                    "endOffset": 9548
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 5761,
+                        "endColumn": 46,
+                        "endOffset": 5803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9553,
+                    "endColumn": 47,
+                    "endOffset": 9596
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 5808,
+                        "endColumn": 47,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9601,
+                    "endColumn": 40,
+                    "endOffset": 9637
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 1,
+                        "startOffset": 3629,
+                        "endColumn": 37,
+                        "endOffset": 3665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9642,
+                    "endColumn": 45,
+                    "endOffset": 9683
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1011,
+                        "endColumn": 42,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 9688,
+                    "endColumn": 46,
+                    "endOffset": 9730
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 422,
+                        "endColumn": 43,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 9735,
+                    "endColumn": 51,
+                    "endOffset": 9782
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 373,
+                        "endColumn": 48,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 9787,
+                    "endColumn": 55,
+                    "endOffset": 9838
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 272,
+                        "endColumn": 52,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 9843,
+                    "endColumn": 50,
+                    "endOffset": 9889
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 325,
+                        "endColumn": 47,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 9894,
+                    "endColumn": 54,
+                    "endOffset": 9944
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 1,
+                        "startOffset": 3577,
+                        "endColumn": 51,
+                        "endOffset": 3627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 9949,
+                    "endColumn": 49,
+                    "endOffset": 9994
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 1,
+                        "startOffset": 3712,
+                        "endColumn": 46,
+                        "endOffset": 3757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 9999,
+                    "endColumn": 47,
+                    "endOffset": 10042
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 1,
+                        "startOffset": 3667,
+                        "endColumn": 44,
+                        "endOffset": 3710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 10047,
+                    "endColumn": 51,
+                    "endOffset": 10094
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1320,
+                        "endColumn": 48,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 10099,
+                    "endColumn": 59,
+                    "endOffset": 10154
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 1631,
+                        "endColumn": 57,
+                        "endOffset": 1686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 10159,
+                    "endColumn": 60,
+                    "endOffset": 10215
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2015,
+                        "endColumn": 57,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 10220,
+                    "endColumn": 57,
+                    "endOffset": 10273
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 1960,
+                        "endColumn": 54,
+                        "endOffset": 2013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 10278,
+                    "endColumn": 51,
+                    "endOffset": 10325
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 5,
+                        "startOffset": 1909,
+                        "endColumn": 52,
+                        "endOffset": 1956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 10330,
+                    "endColumn": 55,
+                    "endOffset": 10381
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 5,
+                        "startOffset": 1852,
+                        "endColumn": 56,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 10386,
+                    "endColumn": 60,
+                    "endOffset": 10442
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2131,
+                        "endColumn": 57,
+                        "endOffset": 2187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 10447,
+                    "endColumn": 60,
+                    "endOffset": 10503
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2073,
+                        "endColumn": 57,
+                        "endOffset": 2129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 10508,
+                    "endColumn": 56,
+                    "endOffset": 10560
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1215,
+                        "endColumn": 53,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 10565,
+                    "endColumn": 59,
+                    "endOffset": 10620
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 1,
+                        "startOffset": 2304,
+                        "endColumn": 56,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 10625,
+                    "endColumn": 51,
+                    "endOffset": 10672
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 51,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 10677,
+                    "endColumn": 56,
+                    "endOffset": 10729
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1691,
+                        "endColumn": 56,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 10734,
+                    "endColumn": 53,
+                    "endOffset": 10783
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1269,
+                        "endColumn": 50,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 10788,
+                    "endColumn": 48,
+                    "endOffset": 10832
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endColumn": 48,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 10837,
+                    "endColumn": 58,
+                    "endOffset": 10891
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 2189,
+                        "endColumn": 55,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 10896,
+                    "endColumn": 61,
+                    "endOffset": 10953
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 2245,
+                        "endColumn": 58,
+                        "endOffset": 2302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 10958,
+                    "endColumn": 52,
+                    "endOffset": 11006
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 1,
+                        "startOffset": 3358,
+                        "endColumn": 49,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 11011,
+                    "endColumn": 56,
+                    "endOffset": 11063
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 1,
+                        "startOffset": 3304,
+                        "endColumn": 53,
+                        "endOffset": 3356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 11068,
+                    "endColumn": 133,
+                    "endOffset": 11197
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 1,
+                        "startOffset": 2894,
+                        "endColumn": 130,
+                        "endOffset": 3023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 11202,
+                    "endColumn": 61,
+                    "endOffset": 11259
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 1,
+                        "startOffset": 2835,
+                        "endColumn": 58,
+                        "endOffset": 2892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 11264,
+                    "endColumn": 57,
+                    "endOffset": 11317
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 1,
+                        "startOffset": 3243,
+                        "endColumn": 54,
+                        "endOffset": 3296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 11322,
+                    "endColumn": 50,
+                    "endOffset": 11368
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 1,
+                        "startOffset": 3138,
+                        "endColumn": 47,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 11373,
+                    "endColumn": 55,
+                    "endOffset": 11424
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 3083,
+                        "endColumn": 52,
+                        "endOffset": 3134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 11429,
+                    "endColumn": 53,
+                    "endOffset": 11478
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 2542,
+                        "endColumn": 50,
+                        "endOffset": 2591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 11483,
+                    "endColumn": 62,
+                    "endOffset": 11541
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 2377,
+                        "endColumn": 59,
+                        "endOffset": 2435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 11546,
+                    "endColumn": 61,
+                    "endOffset": 11603
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 2437,
+                        "endColumn": 58,
+                        "endOffset": 2494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 11608,
+                    "endColumn": 60,
+                    "endOffset": 11664
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 1,
+                        "startOffset": 3025,
+                        "endColumn": 57,
+                        "endOffset": 3081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 11669,
+                    "endColumn": 58,
+                    "endOffset": 11723
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 1,
+                        "startOffset": 3186,
+                        "endColumn": 55,
+                        "endOffset": 3240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 11728,
+                    "endLine": 312,
+                    "endColumn": 10,
+                    "endOffset": 11795
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 1,
+                        "startOffset": 12465,
+                        "endLine": 397,
+                        "endColumn": 10,
+                        "endOffset": 12534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 11800,
+                    "endLine": 321,
+                    "endColumn": 11,
+                    "endOffset": 11955
+                },
+                "from": {
+                    "file": "D:\\20170119\\shift\\esc\\VisualOnA\\Android\\AFuPlayer-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 1,
+                        "startOffset": 12296,
+                        "endLine": 389,
+                        "endColumn": 11,
+                        "endOffset": 12451
+                    }
+                }
+            }
+        ]
+    }
+]
