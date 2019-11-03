@@ -97,7 +97,7 @@
 								android:id="@+id/advice_timeoutSpinner"
 								android:layout_width="204dip"
 								android:layout_height="wrap_content"
-								android:entries="@+array/advice_timeout_labels"
+								android:entries="@array/advice_timeout_labels"
 								android:layout_marginLeft="25px"
 								android:layout_centerInParent="true"
 								/>

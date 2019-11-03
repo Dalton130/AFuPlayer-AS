@@ -98,7 +98,7 @@
 								android:layout_width="204dip"
 								android:layout_height="wrap_content"
 								android:textColor="@drawable/red"
-								android:entries="@+array/sendfriend_email_subject"
+								android:entries="@array/sendfriend_email_subject"
 								android:layout_marginLeft="25px"
 								android:layout_centerInParent="true"
 								/>

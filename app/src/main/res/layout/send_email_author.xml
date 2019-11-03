@@ -50,7 +50,7 @@
 									android:textColor="@drawable/red" android:textSize="12sp" />
 								<Spinner android:id="@+id/sendathor_timeoutSpinner"
 									android:layout_width="204dip" android:layout_height="wrap_content"
-									android:textColor="@drawable/red" android:entries="@+array/sendathor_timeoutSpinner"
+									android:textColor="@drawable/red" android:entries="@array/sendathor_timeoutSpinner"
 									android:layout_marginLeft="25px" android:layout_centerInParent="true" />
 
 							</LinearLayout>

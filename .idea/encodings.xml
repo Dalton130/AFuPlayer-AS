@@ -1,22 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/AuthorActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/BaseActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/HelpActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/LoginActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/MainMenuActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/SoundView.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/VersionInfoActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/VideoPlayerActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/VideoView.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/playlist/PlayListsActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/ActivityHolder.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/Constants.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/LogUtil.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/PrefService.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/SetupActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yangguangfu/videoplayer/util/SoundService.java" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
-  </component>
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
 </project>

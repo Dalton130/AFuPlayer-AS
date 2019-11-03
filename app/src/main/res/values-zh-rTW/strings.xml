@@ -3,6 +3,7 @@
 
 	<string name="app_name">阿福播放器</string>
 	<string name="send_email_author">歡迎您給作者建議</string>
+	<string name="list_refresh">视频列表已刷新！</string>
 	<string name="receiver">收件人</string>
 	<string name="send_email_theme">主題</string>
 	<string name="send_email_content">內容</string>
